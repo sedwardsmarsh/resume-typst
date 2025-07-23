@@ -111,7 +111,8 @@ Mar 2021 -- Jan 2022\
 #line(length: 100%)
 
 *University of California, Santa Cruz* — B.S. in Computer Science\
-Santa Cruz, CA -- Jun 2022
+Santa Cruz, CA\
+Sep 2019 -- Jun 2022
 
 // //===========================
 // // EXTRA-CURRICULAR ACTIVITIES
