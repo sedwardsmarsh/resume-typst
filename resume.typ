@@ -41,11 +41,11 @@ Website: #link("https://www.samedwardsmarsh.com")[www.samedwardsmarsh.com]\
 LinkedIn: #link("https://linkedin.com/in/sedwardsmarsh/")[linkedin.com/in/sedwardsmarsh/]
 
 //===========================
-// WORK EXPERIENCE
+// PROFESSIONAL EXPERIENCE
 //===========================
 
 \
-#text(14pt)[*Work Experience*]
+#text(14pt)[*Professional Experience*]
 #line(length: 100%)
 
 *SN&N Electronics, Inc.* -- *Software Engineer*\
@@ -75,7 +75,7 @@ Mar 2021 -- Jan 2022\
 
 \
 
-#text(14pt)[*Projects*]
+#text(14pt)[*Personal Projects*]
 #line(length: 100%)
 
 *Guess Word iOS App* #link("https://apps.apple.com/us/app/sam-edwards-marsh/id6475566601")[App Store Link] SwiftUI time based word guessing iPhone app.
