@@ -110,7 +110,7 @@ Mar 2021 -- Jan 2022\
 #text(14pt)[*Education*]
 #line(length: 100%)
 
-*University of California, Santa Cruz* — B.S. in Computer Science\
+*University of California, Santa Cruz* — Bachelor of Science in Computer Science\
 Santa Cruz, CA\
 Sep 2019 -- Jun 2022
 
