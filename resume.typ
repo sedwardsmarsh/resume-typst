@@ -52,12 +52,13 @@ LinkedIn: #link("https://linkedin.com/in/sedwardsmarsh/")[linkedin.com/in/sedwar
 Morgan Hill, CA\
 Jan 2023 -- Present\
 
-- Developing Android OS, Arduino, STM32, Tkinter UIs for testing hardware.
-- Developed an API for a 3-axis linear stage robot.
-- Developed a CLI waveform validation tool.
+- Reduced hardware test setup time by 50% through custom UI development using Arduino and Tkinter.
+- Developed an API for a 3-axis linear stage robot, enabling calibration accuracy to 5μm.
+- Accelerated waveform validation workflow by 100% with a custom CLI tool for automated analysis.
+- Delivered 5+ proof-of-concept prototypes in a multifunctional team adapting to client requirements.
 - Contributed to open source projects for ultrasound technology.
-- Working in a multifunctional team developing proof-of-concept applications.
-- Adapting to client expectations to deliver products in a timely manner.
+- Enhanced user feedback by adding audio notifications to a prototype medical device.
+// - Delivered products in a timely manner by adapting to client expectations.
 
 \
 
@@ -65,8 +66,8 @@ Jan 2023 -- Present\
 Santa Cruz, CA\
 Mar 2021 -- Jan 2022\
 
-- Created an ML pipeline to analyze time series weather data for leaf wetness & disease propagation.
-- Worked alongside PhD students in the UCSC Ag Tech team to improve ongoing projects in the lab.
+- Created an ML pipeline using Pandas, scikit-learn, and TensorFlow to analyze time series weather data for leaf wetness and disease propagation, improving analysis efficiency.
+- Worked alongside 2+ PhD students on Ag Tech projects to enhance lab outcomes.
 
 
 //===========================
