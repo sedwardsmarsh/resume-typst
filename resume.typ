@@ -79,13 +79,13 @@ Mar 2021 -- Jan 2022\
 #text(14pt)[*Personal Projects*]
 #line(length: 100%)
 
-*Guess Word iOS App* #link("https://apps.apple.com/us/app/sam-edwards-marsh/id6475566601")[App Store Link] SwiftUI time based word guessing iPhone app.
-
-*DL Deforestation Detection* #link("https://deforestationdetector.com")[deforestationdetector.com] Created an ensemble transfer learning network for multi-label classification. Implemented a Docker container for GPU acceleration, reducing training time.
+*Neural Synth* #link("https://github.com/sedwardsmarsh/neural-synth/tree/dev")[GitHub Repo] A tool to program a software synthesizer to approximately recreate any sound.
 
 *VST3 Delay Plug-In* #link("https://github.com/sedwardsmarsh/juce-circular-buffer")[GitHub Repo] A delay VST3 audio effect to demonstrate understanding of the JUCE framework.
 
-*Neural Synth* #link("https://github.com/sedwardsmarsh/neural-synth/tree/dev")[GitHub Repo] A tool to program a software synthesizer to approximately recreate any sound.
+*Guess Word iOS App* #link("https://apps.apple.com/us/app/sam-edwards-marsh/id6475566601")[App Store Link] SwiftUI time based word guessing iPhone app.
+
+*DL Deforestation Detection* #link("https://deforestationdetector.com")[deforestationdetector.com] Created an ensemble transfer learning network for multi-label classification. Implemented a Docker container for GPU acceleration, reducing training time.
 
 //===========================
 // SKILLS
